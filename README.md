@@ -12,9 +12,5 @@ Ini adalah Template Web HTML dan CSS. Gunakan sesuai petunjuk yang diberikan ole
 ## Cloning Project
 Jalankan perintah 'git clone urlgithub'
 
-## developer
-| name | | role |
-| ---------- | ------------- |
-| dasd| | juduldeveloper |
-| dasddawdasdwda | | dadadwasd |
+
 
